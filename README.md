@@ -6,8 +6,8 @@ I am a student currently pursuing a degree in Software Engineering at the Nation
 
 Exposure: 
 
-  •	Backend Technologies - Java, Spring Boot
-  •	Frontend - React.js, Bootstrap, CSS, JavaScript
-  •	Mobile Dev Technologies - Android Studio (Kotlin)
-  •	Database - MySQL, MongoDB, MS SQL, Firebase
-  •	Other Programming Stacks - C#, Python
+•	Backend Technologies - Java, Spring Boot
+•	Frontend - React.js, Bootstrap, CSS, JavaScript
+•	Mobile Dev Technologies - Android Studio (Kotlin)
+•	Database - MySQL, MongoDB, MS SQL, Firebase
+•	Other Programming Stacks - C#, Python

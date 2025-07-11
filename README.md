@@ -5,8 +5,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rosnifarook](https://medium.com/@rosnifarook)
 
-- 📄 Know about my experiences [https://linktr.ee/rosni_farook](https://linktr.ee/rosni_farook)
-
 - ⚡ Fun fact **: If I could eat one type of cuisine for the rest of my life, it would be Italian food, as I enjoy pasta and pizza.**
 
 <h3 align="left">Connect with me:</h3>

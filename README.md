@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rosni Farook</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">Software Engineer | Backend Developer | Java/Spring Boot Enthusiast</h3>
 
 - 🌱 I’m currently learning **Django framework**
 

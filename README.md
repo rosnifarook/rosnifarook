@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rosni Farook</h1>
 <h3 align="center">Software Engineer | Backend Developer | Java/Spring Boot Enthusiast</h3>
 
-- 🌱 I’m currently learning **Django framework**
+- Problem solving is what excites me most about programming
 
 - 📝 I regularly write articles on [https://medium.com/@rosnifarook](https://medium.com/@rosnifarook)
 

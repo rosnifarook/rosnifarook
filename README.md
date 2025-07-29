@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rosni Farook</h1>
 <h3 align="center">Software Engineer | Focused on Backend Development | Java/Spring Boot</h3>
 
-- Problem solving is what excites me most about programming
+- 🧩 Problem solving is what excites me most about programming
 
 - 📝 I regularly write articles on [https://medium.com/@rosnifarook](https://medium.com/@rosnifarook)
 
-- ⚡ Fun fact **: If I could eat one type of cuisine for the rest of my life, it would be Italian food, as I enjoy pasta and pizza.**
+- ✍️ Writing code, learning every day
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

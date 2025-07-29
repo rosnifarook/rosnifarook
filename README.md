@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rosni Farook</h1>
-<h3 align="center">Software Engineer | Backend Developer | Java/Spring Boot Enthusiast</h3>
+<h3 align="center">Software Engineer | Focused on Backend Development | Java/Spring Boot</h3>
 
 - Problem solving is what excites me most about programming
 

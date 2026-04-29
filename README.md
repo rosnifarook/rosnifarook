@@ -47,7 +47,6 @@ I'm a software engineer who finds **genuine joy in problem solving** — the kin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosnifarook&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosnifarook&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" />
 </p>
 

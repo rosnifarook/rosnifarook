@@ -1,60 +1,72 @@
-<h1 align="center">Hi 👋, I'm Rosni Farook</h1>
-<h3 align="center">Software Engineer | Backend Focus | Java / Spring Boot</h3>
+
+# Hi there, I'm Rosni Farook 👋
+
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180§ion=header&amp;text=Rosni%20Farook&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Software%20Engineer%20·%20Problem%20Solver%20·%20Technical%20Writer&amp;descAlignY=55&amp;descFontSize=14)
+
+## // Hello, world
+
+I'm a software engineer who finds **genuine joy in problem solving** — the kind that makes you forget time exists. I build robust backends with Java &amp; Spring Boot, craft clean UIs with React, and [write about what I learn on Medium](https://medium.com/@rosnifarook) to give back to the dev community.
+
+---
+
+## ⚡ A bit about me
+
+| | |
+|---|---|
+| 🧩 **Focus** | Backend · Frontend |
+| ✍️ **Writing** | [Medium → @rosnifarook](https://medium.com/@rosnifarook) |
+| 📚 **Learning** | Every single day |
+| 🚀 **Mindset** | Ship · Reflect · Improve |
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=spring-boot&amp;logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&amp;logo=hibernate&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-🧩 Problem solving is what excites me most about programming <br>
-📝 I write articles on <a href="https://medium.com/@rosnifarook">Medium</a> <br>
-✍️ Writing code, learning every day
+  <img src="https://github-readme-stats.vercel.app/api?username=rosnifarook&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosnifarook&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="165" />
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rosnifarook" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
+## ✍️ Latest Medium Articles
 
-<a href="https://linkedin.com/in/rosni-farook" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<a href="https://stackoverflow.com/users/14336685" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-</a>
-
-<a href="https://kaggle.com/rosnifarook" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-
-<a href="https://fb.com/rosnifarook" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-
-<a href="https://medium.com/@rosnifarook" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
-</p>
+> Auto-updated via [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) — add this GitHub Action to display your latest posts!
 
 ---
-
-<h3 align="left">LeetCode Stats:</h3>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/rosnifarook?ext=contest" />
+  <i>"Code is thinking made visible."</i><br/><br/>
+  <a href="https://medium.com/@rosnifarook">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" />
+  </a>
 </p>
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100§ion=footer)

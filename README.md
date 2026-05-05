@@ -6,7 +6,7 @@
 
 ## // Hello, world
 
-I'm a software engineer who finds **genuine joy in problem solving** — the kind that makes you forget time exists. I build robust backends with Java &amp; Spring Boot, craft clean UIs with React, and [write about what I learn on Medium](https://medium.com/@rosnifarook) to give back to the dev community.
+I'm a software engineer who finds **genuine joy in problem solving** the kind that makes you forget time exists. I build robust backends with Java &amp; Spring Boot, craft clean UIs with React, and [write about what I learn on Medium](https://medium.com/@rosnifarook) to give back to the dev community.
 
 ---
 
